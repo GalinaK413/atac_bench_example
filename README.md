@@ -16,4 +16,5 @@ use chrombpnet fold 0 and alphagenome fold 1 for comparison with GENA_LM
 Chrombpnet
 
 First use chrom_bw.py to create predicted bw, then use chrom_metrics.py to calculate metrics
+
 ground truth bw and regions bed are the same as in Alpha Genome. You also need hg38 genome files and .h5 chrombpnet model file (see gencode, look for 'models'). depending on chrombpnet version, you may need to reformat h5 files, use https://github.com/kundajelab/chrombpnet/blob/master/chrombpnet/helpers/postprocessing/reformat_chrombpnet_h5.py
