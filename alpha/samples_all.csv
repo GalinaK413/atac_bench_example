@@ -1,0 +1,2 @@
+sample_name,biosample,bw_path,bed,data_type
+ATAC_IMR-90,EFO:0001196,/data/gskoksharova/airi/chrombpnet/readymade/ATAC/ENCFF650PHA.bigWig,/data/gskoksharova/airi/chrombpnet/readymade/ATAC/fold1_test_regions.bed,ATAC
