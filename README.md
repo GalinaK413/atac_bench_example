@@ -4,6 +4,7 @@ an example for Alpha Genome and Chrombpnet ATAC-seq benchmarking
 Alpha Genome
 
 use alpha.py
+
 samples_all.csv should contain paths to ground truth bw (1) and to regions bed (2)
 1) ground truth bw can be found on gencode - example https://www.encodeproject.org/files/ENCFF650PHA/
 you can get accessions for all benchmarks here https://www.synapse.org/Synapse:syn59449898/wiki/628018
