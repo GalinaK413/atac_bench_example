@@ -1,0 +1,2 @@
+sample_name,bw_path,pred_bw_path,bed
+ATAC_IMR-90,/data/gskoksharova/airi/chrombpnet/readymade/ATAC/ENCFF650PHA.bigWig,/data/gskoksharova/airi/chrombpnet/readymade/ATAC/results/fold1_averaged.bw,/data/gskoksharova/airi/chrombpnet/readymade/ATAC/fold1_test_regions.bed
